@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598244281996",
+    "project_id": "flash-chat-e2fe4",
+    "storage_bucket": "flash-chat-e2fe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598244281996:android:c01938b87109b847e9f5a9",
+        "android_client_info": {
+          "package_name": "co.AmanPandey.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598244281996-l4gon4obcl4pf08lrllsd1kouvaq0qqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRCZytz1UxiUy3GiXY7Q26YjLvCxSlC6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598244281996-l4gon4obcl4pf08lrllsd1kouvaq0qqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
